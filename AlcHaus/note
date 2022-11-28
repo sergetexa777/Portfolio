@@ -1,0 +1,6 @@
+1.Blok Intro - njama .container t.k. blok zajmae usju shyrynju ekranu.
+
+2.Njama zafiksavanaga menu. Koler menu i logo bely jak i koler samoga sajtu - pry prakrutcy nja budze bachnae menu. 
+  Menu bachne uverse tamu chto blok Intro zpauzae naverh a z-index menu bolshy za z-index bloka Intro.
+  Kab menu bylo bachnae za blokam Intro treba adsochvac kaarynaty menu i mjanac background-color. Rabic praz JS? Pakul nja vedaju.
+  !!! Kab zafiksavac menu treba position: fixed; na uves header, a ne menu unutry header.  
